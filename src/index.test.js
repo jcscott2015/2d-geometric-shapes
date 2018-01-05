@@ -1,11 +1,10 @@
-import {expect} from 'chai';
+import { should } from 'chai';
+should();
 //import jsdom from 'jsdom'; import fs from 'fs';
 
 describe('Our first test', () => {
   it('should pass', () => {
-    expect(true)
-      .to
-      .equal(true);
+    true.should.be.true;
   });
 });
 
