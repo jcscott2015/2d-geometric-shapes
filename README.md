@@ -1,9 +1,8 @@
-# 2d-geometric-shapes
+# 2-Dimensional Geometric Shapes
 
 ## Javascript Software Developer Interview Code
 
-Build a simple Object Oriented Javascript library for defining 2-dimensional geometric shapes
-and making basic calculations with them. The following shapes should be featured:
+Build a simple Object Oriented Javascript library for defining 2-dimensional geometric shapes and making basic calculations with them. The following shapes should be featured:
 
 * circle
 * right triangle
@@ -17,6 +16,8 @@ For each shape, the library should be able to do the following:
 * calculate the area
 * calculate the perimeter
 * proportionally resize the shape up or down, given a floating-point scale factor
+
+To view test output alone, run `npm run test`.
 
 ## Get Started
 
